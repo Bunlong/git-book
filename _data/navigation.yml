@@ -3,54 +3,54 @@ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+        url: /
       - title: "Structure"
-        url: /docs/structure/
+        url: /structure/
       - title: "Installation"
-        url: /docs/installation/
+        url: /installation/
       - title: "Upgrading"
-        url: /docs/upgrading/
+        url: /upgrading/
   - title: Customization
     children:
       - title: "Configuration"
-        url: /docs/configuration/
+        url: /configuration/
       - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
+        url: /overriding-theme-defaults/
       - title: "Navigation"
-        url: /docs/navigation/
+        url: /navigation/
       - title: "UI Text"
-        url: /docs/ui-text/
+        url: /ui-text/
       - title: "Authors"
-        url: /docs/authors/
+        url: /authors/
       - title: "Layouts"
-        url: /docs/layouts/
+        url: /layouts/
   - title: Content
     children:
       - title: "Working with Posts"
-        url: /docs/posts/
+        url: /posts/
       - title: "Working with Pages"
-        url: /docs/pages/
+        url: /pages/
       - title: "Working with Collections"
-        url: /docs/collections/
+        url: /collections/
       - title: "Helpers"
-        url: /docs/helpers/
+        url: /helpers/
       - title: "Utility Classes"
-        url: /docs/utility-classes/
+        url: /utility-classes/
   - title: Extras
     children:
       - title: "Stylesheets"
-        url: /docs/stylesheets/
+        url: /stylesheets/
       - title: "JavaScript"
-        url: /docs/javascript/
+        url: /javascript/
   - title: Meta
     children:
       - title: "History"
-        url: /docs/history/
+        url: /history/
       - title: "Contributing"
-        url: /docs/contributing/
+        url: /contributing/
       - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
+        url: /docs-2-2/
       - title: "License"
-        url: /docs/license/
+        url: /license/
       - title: "Terms &amp; Privacy Policy"
         url: /terms/
